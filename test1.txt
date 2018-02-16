@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CE54-CC5C
+
+ Directory of C:\Users\Naveen.Guntupalli\Desktop\MyGitProject
+
+02/16/2018  11:28 PM    <DIR>          .
+02/16/2018  11:28 PM    <DIR>          ..
+02/16/2018  11:28 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  155,660,722,176 bytes free
+
+number1
